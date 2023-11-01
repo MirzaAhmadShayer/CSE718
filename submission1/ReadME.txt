@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 
 
 Paper title:
-
+Modelling, Validation, and Simulation of Solar Photovoltaic Modules
 
 Link to the paper:
 
