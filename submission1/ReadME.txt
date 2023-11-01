@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1hYlTuR-xML5RQLZkImKHbjHlYrajPHO_/edit?usp=sharing&ouid=101314351220688869313&rtpof=true&sd=true
 
 Paper title:
 Modelling, Validation, and Simulation of Solar Photovoltaic Modules
