@@ -8,10 +8,10 @@ Paper title:
 Modelling, Validation, and Simulation of Solar Photovoltaic Modules
 
 Link to the paper:
-
+https://electricajournal.org/Content/files/sayilar/94/48-60.pdf
 
 Group Number:
-
+2
 
 Individual Submitter:
 22273008 Mirza Ahmad Shayer
