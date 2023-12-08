@@ -5,7 +5,10 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1EIlvZC_cYRzgcL1qpAY5HaaDoAPov9t7/edit?usp=sharing&ouid=101314351220688869313&rtpof=true&sd=true
 
+Google Drive Link:
+https://drive.google.com/drive/folders/1-bpOzPfmxo44E3Lqw0AdQ5V6vli9LsCn?usp=sharing
 
 Project title:
 Fire Simulation and Modelling for Data Centers
