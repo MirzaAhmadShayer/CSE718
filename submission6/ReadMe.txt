@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-
+Fire Simulation and Modelling for Data Centers
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1EIlvZC_cYRzgcL1qpAY5HaaDoAPov9t7/edit?usp=sharing&ouid=101314351220688869313&rtpof=true&sd=true
