@@ -5,7 +5,7 @@ Unlisted YouTube video: No video required as per instructions. Nonetheless, task
 https://youtu.be/4KQX76zYpd8?list=PLooQutR0U2kDfnVN5XHbofJfPO4OGM1bd
 
 Conference submitted paper / paper submission / login Link:
-
+https://www.ihsanyassin.com/iscaie2024_oc/openconf.php
 
 Paper title:
 Fire Simulation and Modelling for Data Centers
@@ -14,16 +14,16 @@ Paper presentation (anyone can view without login): Same slides as task 5, final
 https://docs.google.com/presentation/d/1EIlvZC_cYRzgcL1qpAY5HaaDoAPov9t7/edit?usp=sharing&ouid=101314351220688869313&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
-
+14-12-2023
 
 Paper submission ID: (received) from conference/workshop
-
+29
 
 Conference Name:
-
+IEEE Symposium on Computer Applications & Industrial Electronics
 
 Conference URL:
-
+https://www.iscaie.org/home
 
 Group Number:
 2
