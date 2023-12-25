@@ -1,7 +1,7 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/6369766864gjnfzmcmkqds#1b5a69
 
-Unlisted YouTube video: No video required as per instructions. Nonetheless, task 5 video link is given here again
+Unlisted YouTube video: No video required as per instructions. Nonetheless, task 5 & 6 video link is given here again
 https://youtu.be/4KQX76zYpd8?list=PLooQutR0U2kDfnVN5XHbofJfPO4OGM1bd
 
 Google Drive Link:
