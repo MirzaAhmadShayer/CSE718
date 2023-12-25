@@ -4,6 +4,9 @@ https://www.overleaf.com/6369766864gjnfzmcmkqds#1b5a69
 Unlisted YouTube video: No video required as per instructions. Nonetheless, task 5 video link is given here again
 https://youtu.be/4KQX76zYpd8?list=PLooQutR0U2kDfnVN5XHbofJfPO4OGM1bd
 
+Google Drive Link:
+https://drive.google.com/drive/folders/1-bpOzPfmxo44E3Lqw0AdQ5V6vli9LsCn?usp=sharing
+
 Conference submitted paper / paper submission / login Link:
 https://www.ihsanyassin.com/iscaie2024_oc/openconf.php
 
