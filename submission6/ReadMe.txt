@@ -23,7 +23,7 @@ Paper submission ID: (received) from conference/workshop
 29
 
 Conference Name:
-14th IEEE Symposium on Computer Applications & Industrial Electronics
+14th IEEE Symposium on Computer Applications & Industrial Electronics - ISCAIE2024
 
 Conference URL:
 https://www.iscaie.org/home
